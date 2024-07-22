@@ -1,0 +1,5 @@
+Django>=3.0,<4.0
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+setuptools
